@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.css"],"names":[],"mappings":"AACA,OACE,kBACF,CAEA,WACE,mBACF,CAEA,sBACE,gBACF","file":"style.74ad6085.css","sourceRoot":"..\\src","sourcesContent":["/* styles go here */\n.input {\n  margin-bottom: 20px;\n}\n\n.container {\n  padding-bottom: 10px;\n}\n\n.container:last-child {\n  padding-bottom: 0;\n}\n"]}
